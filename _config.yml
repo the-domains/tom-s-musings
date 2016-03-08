@@ -1,0 +1,28 @@
+name: "Tom's Musings"
+favicon: null
+layout_spectrum: 0.4318373166024685
+typography_spectrum: 0.7323706562165171
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5500276789534837
+  lightness: 0.6887839054688811
+  saturation: 0.2620545863173902
+  rhythmicContrast: 0.7128973214421421
+purpose: []
