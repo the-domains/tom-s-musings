@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Is this the future of web design?
-datePublished: '2016-03-08T17:34:41.343Z'
-dateModified: '2016-03-08T17:32:37.940Z'
+datePublished: '2016-03-08T17:45:39.884Z'
+dateModified: '2016-03-08T17:34:49.456Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-08-is-this-the-future-of-web-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-is-this-the-future-of-web-design.md
-published: true
 url: is-this-the-future-of-web-design/index.html
 _type: Article
 
