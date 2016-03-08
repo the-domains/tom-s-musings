@@ -1,7 +1,7 @@
 name: "Tom's Musings"
 favicon: null
-layout_spectrum: 0.4318373166024685
-typography_spectrum: 0.7323706562165171
+layout_spectrum: 0.33835
+typography_spectrum: 0.40182
 cta:
   domain: null
   bucket: null
